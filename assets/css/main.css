@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica;
+}
+
+body {
+    background-image: linear-gradient(0deg, white, cyan);
+    padding: 10px;
+    margin: 0px;
+}
+
+.hero {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.work {
+    text-align: center;
+}
